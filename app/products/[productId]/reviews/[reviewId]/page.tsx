@@ -10,3 +10,5 @@ export default async function ProductReview({
     </h1>
   )
 }
+
+//http://localhost:3000/products/4/reviews/5

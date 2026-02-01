@@ -7,3 +7,5 @@ export default function ProductList()
     <h2>Product 3</h2>
   </>
 }
+
+//http://localhost:3000/products
